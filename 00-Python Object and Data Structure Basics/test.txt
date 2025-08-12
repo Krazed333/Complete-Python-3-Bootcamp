@@ -1,2 +1,4 @@
 First Line
 Second Line
+This is the second line of the file.
+This is the second line of the file.
